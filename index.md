@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Place to write some technology
 
 You can use the [editor on GitHub](https://github.com/lvlv1994/techblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
